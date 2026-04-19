@@ -1496,6 +1496,9 @@
   "currency_fraction_units": 100,
   "currency_name": "Won",
   "number_format": "#,###",
+  "timezones": [
+   "Asia/Seoul"
+  ],
   "isd": "+82"
  },
  "Kuwait": {
